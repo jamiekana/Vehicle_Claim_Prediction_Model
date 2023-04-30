@@ -4,8 +4,6 @@
 
 Insurance fraud is a significant problem that impacts the profitability of insurance companies and increases the cost of insurance for honest policyholders.
 
-Everyone needs vehicle insurance and fraudulent claims can take many forms, they can be staged accidents, false damage claims, and inflated injury claims.
-
 By developing an accurate fraud detection model, insurance companies can prevent losses due to fraudulent claims and improve their overall business performance.
 
 
