@@ -26,6 +26,6 @@ https://www.kaggle.com/datasets/khusheekapoor/vehicle-insurance-fraud-detection
 
 - **Pandas** for accessing the data, and preparing the it for modeling.
 
-- **Ensemble model (Random Forest & Gradient Boosting)** for training the model
+- **SMOTE & Random Forest** for training the model
 
 - **Streamlit** for creating a dashboard
